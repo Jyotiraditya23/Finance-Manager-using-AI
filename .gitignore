@@ -1,0 +1,17 @@
+# React
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# Spring Boot
+backend/target/
+backend/*.log
+backend/.env
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
